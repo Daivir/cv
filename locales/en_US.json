@@ -1,0 +1,9 @@
+{
+  "about": {
+    "age": "age",
+    "email": "email",
+    "address": "address",
+    "nationality": "nationality",
+    "phone": "phone"
+  }
+}

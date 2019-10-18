@@ -1,0 +1,27 @@
+// .v-application {
+//   font-family: "Fira Code", sans-serif!important;
+//   font-style: normal;
+//   font-variant-ligatures: normal;
+//   font-variant-caps: normal;
+//   font-variant-numeric: normal;
+//   font-variant-east-asian: normal;
+//   font-stretch: normal;
+//   text-rendering: optimizeLegibility;
+//   font-feature-settings: "calt" 1;
+//   word-break: normal;
+// }
+
+.fc-title {
+  font: 18px/1.5em "Fira Code";
+  font-style: normal;
+  font-variant-ligatures: normal;
+  font-variant-caps: normal;
+  font-variant-numeric: normal;
+  font-variant-east-asian: normal;
+  font-weight: 500;
+  font-stretch: normal;
+  text-transform: uppercase;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "calt" 1;
+  word-break: break-all;
+}
